@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/placeholder.png "Model Visualization"
-[image2]: ./new_data/IMG/center_2022_03_20_05_59_22_089.jpg "Center Driving"
-[image3]: ./new_data/IMG/center_2022_03_20_05_58_02_964.jpg "Recovery Image"
+[image2]: ./center_driving.jpg "Center Driving"
+[image3]: ./recovery.jpg "Recovery Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
